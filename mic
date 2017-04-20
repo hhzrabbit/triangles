@@ -1,0 +1,31 @@
+torus
+0 100 0 10 40
+torus
+0 140 0 10 60
+torus
+0 180 0 10 80
+torus
+0 -100 0 10 40
+torus
+0 -140 0 10 60
+torus
+0 -180 0 10 80
+ident
+rotate
+z 90
+move
+250 355 0
+apply
+sphere
+250 355 25 80
+box
+225 280 25 50 250 50
+ident
+rotate
+x 10
+rotate
+y 10
+apply
+display
+save
+mic.png
